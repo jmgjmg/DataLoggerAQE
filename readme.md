@@ -4,7 +4,7 @@ This Arduino/Nanode project reuses the shield and code of AQE to log sensor data
 
 The original code of AQE can be found at http://bit.ly/AQE-CODE and more information about the AQE project (in Spanish) can be found at http://ks380570.kimsufi.com/foswiki/bin/view/DCDCity/WebHome
 
-This project has been tested in one Arduino Uno board. Although the code has not been tested on the Nanode board, it should be compatible and should not require any additional chages.
+This project has been tested on one Arduino Uno board. Although the code has not been tested on the Nanode board, it should be compatible and should not require any additional changes.
 
 The project uses the MP3 shield of Sparkfun Electronics for the SD card reader https://www.sparkfun.com/products/10628
 
