@@ -1,0 +1,1332 @@
+Current time,1951
+NO2,0
+CO,0
+airQuality,0
+humidity,0
+temperature,0
+button,0
+
+
+Current time,11952
+NO2,144
+CO,123
+airQuality,480
+humidity,44
+temperature,23
+button,0
+
+
+Current time,21953
+NO2,144
+CO,123
+airQuality,517
+humidity,43
+temperature,23
+button,1
+
+
+Current time,31954
+NO2,145
+CO,123
+airQuality,525
+humidity,43
+temperature,23
+button,1
+
+
+Current time,41955
+NO2,145
+CO,123
+airQuality,523
+humidity,42
+temperature,23
+button,1
+
+
+Current time,51956
+NO2,145
+CO,123
+airQuality,522
+humidity,42
+temperature,23
+button,1
+
+
+Current time,61957
+NO2,146
+CO,123
+airQuality,516
+humidity,42
+temperature,23
+button,1
+
+
+Current time,71958
+NO2,141
+CO,84
+airQuality,444
+humidity,41
+temperature,23
+button,1
+
+
+Current time,81959
+NO2,141
+CO,69
+airQuality,440
+humidity,41
+temperature,23
+button,1
+
+
+Current time,91960
+NO2,142
+CO,63
+airQuality,457
+humidity,41
+temperature,23
+button,1
+
+
+Current time,101961
+NO2,142
+CO,63
+airQuality,464
+humidity,41
+temperature,23
+button,1
+
+
+Current time,111962
+NO2,142
+CO,65
+airQuality,425
+humidity,41
+temperature,23
+button,0
+
+
+Current time,121963
+NO2,142
+CO,67
+airQuality,474
+humidity,41
+temperature,23
+button,0
+
+
+Current time,131964
+NO2,143
+CO,69
+airQuality,443
+humidity,41
+temperature,23
+button,0
+
+
+Current time,141965
+NO2,143
+CO,71
+airQuality,442
+humidity,41
+temperature,23
+button,0
+
+
+Current time,151966
+NO2,143
+CO,73
+airQuality,460
+humidity,41
+temperature,23
+button,0
+
+
+Current time,161967
+NO2,148
+CO,74
+airQuality,523
+humidity,41
+temperature,23
+button,0
+
+
+Current time,171968
+NO2,148
+CO,74
+airQuality,536
+humidity,41
+temperature,23
+button,0
+
+
+Current time,181969
+NO2,148
+CO,74
+airQuality,557
+humidity,41
+temperature,23
+button,0
+
+
+Current time,191970
+NO2,148
+CO,74
+airQuality,530
+humidity,41
+temperature,23
+button,0
+
+
+Current time,201971
+NO2,149
+CO,74
+airQuality,524
+humidity,41
+temperature,23
+button,0
+
+
+Current time,211972
+NO2,148
+CO,74
+airQuality,531
+humidity,41
+temperature,23
+button,0
+
+
+Current time,221973
+NO2,149
+CO,74
+airQuality,550
+humidity,41
+temperature,23
+button,0
+
+
+Current time,231974
+NO2,143
+CO,50
+airQuality,477
+humidity,41
+temperature,23
+button,0
+
+
+Current time,241975
+NO2,143
+CO,42
+airQuality,461
+humidity,41
+temperature,23
+button,0
+
+
+Current time,251976
+NO2,144
+CO,40
+airQuality,484
+humidity,41
+temperature,23
+button,0
+
+
+Current time,261977
+NO2,144
+CO,42
+airQuality,497
+humidity,41
+temperature,23
+button,0
+
+
+Current time,271978
+NO2,144
+CO,44
+airQuality,482
+humidity,41
+temperature,23
+button,0
+
+
+Current time,281979
+NO2,144
+CO,46
+airQuality,495
+humidity,41
+temperature,23
+button,0
+
+
+Current time,291980
+NO2,144
+CO,48
+airQuality,493
+humidity,41
+temperature,23
+button,0
+
+
+Current time,301981
+NO2,144
+CO,50
+airQuality,495
+humidity,41
+temperature,23
+button,0
+
+
+Current time,311982
+NO2,144
+CO,51
+airQuality,501
+humidity,41
+temperature,23
+button,0
+
+
+Current time,321983
+NO2,149
+CO,51
+airQuality,585
+humidity,41
+temperature,23
+button,0
+
+
+Current time,331984
+NO2,150
+CO,51
+airQuality,584
+humidity,41
+temperature,23
+button,0
+
+
+Current time,341985
+NO2,149
+CO,51
+airQuality,567
+humidity,41
+temperature,23
+button,0
+
+
+Current time,351986
+NO2,150
+CO,51
+airQuality,581
+humidity,41
+temperature,23
+button,0
+
+
+Current time,361987
+NO2,150
+CO,51
+airQuality,561
+humidity,41
+temperature,23
+button,0
+
+
+Current time,371988
+NO2,150
+CO,51
+airQuality,557
+humidity,41
+temperature,23
+button,0
+
+
+Current time,381989
+NO2,145
+CO,43
+airQuality,497
+humidity,41
+temperature,23
+button,0
+
+
+Current time,391990
+NO2,145
+CO,33
+airQuality,489
+humidity,40
+temperature,23
+button,0
+
+
+Current time,401991
+NO2,145
+CO,29
+airQuality,472
+humidity,40
+temperature,23
+button,0
+
+
+Current time,411992
+NO2,145
+CO,30
+airQuality,451
+humidity,40
+temperature,23
+button,0
+
+
+Current time,421993
+NO2,145
+CO,31
+airQuality,453
+humidity,40
+temperature,23
+button,0
+
+
+Current time,431994
+NO2,145
+CO,34
+airQuality,464
+humidity,40
+temperature,23
+button,0
+
+
+Current time,441995
+NO2,145
+CO,35
+airQuality,446
+humidity,40
+temperature,23
+button,0
+
+
+Current time,451996
+NO2,145
+CO,37
+airQuality,445
+humidity,40
+temperature,23
+button,0
+
+
+Current time,461997
+NO2,146
+CO,38
+airQuality,466
+humidity,40
+temperature,23
+button,0
+
+
+Current time,471998
+NO2,151
+CO,40
+airQuality,573
+humidity,40
+temperature,23
+button,0
+
+
+Current time,481999
+NO2,151
+CO,40
+airQuality,543
+humidity,40
+temperature,23
+button,0
+
+
+Current time,492000
+NO2,150
+CO,40
+airQuality,523
+humidity,40
+temperature,23
+button,0
+
+
+Current time,502597
+NO2,151
+CO,40
+airQuality,549
+humidity,40
+temperature,23
+button,0
+
+
+Current time,512598
+NO2,151
+CO,40
+airQuality,581
+humidity,40
+temperature,23
+button,0
+
+
+Current time,522599
+NO2,151
+CO,40
+airQuality,546
+humidity,40
+temperature,23
+button,0
+
+
+Current time,532600
+NO2,146
+CO,34
+airQuality,444
+humidity,40
+temperature,23
+button,0
+
+
+Current time,542601
+NO2,146
+CO,27
+airQuality,427
+humidity,40
+temperature,23
+button,0
+
+
+Current time,552602
+NO2,146
+CO,23
+airQuality,456
+humidity,40
+temperature,23
+button,0
+
+
+Current time,562603
+NO2,146
+CO,23
+airQuality,403
+humidity,40
+temperature,23
+button,0
+
+
+Current time,572604
+NO2,146
+CO,24
+airQuality,398
+humidity,40
+temperature,23
+button,0
+
+
+Current time,582605
+NO2,146
+CO,26
+airQuality,454
+humidity,40
+temperature,23
+button,0
+
+
+Current time,592606
+NO2,146
+CO,28
+airQuality,400
+humidity,40
+temperature,23
+button,0
+
+
+Current time,602607
+NO2,146
+CO,29
+airQuality,448
+humidity,40
+temperature,23
+button,0
+
+
+Current time,612608
+NO2,146
+CO,31
+airQuality,430
+humidity,40
+temperature,23
+button,0
+
+
+Current time,622609
+NO2,146
+CO,32
+airQuality,431
+humidity,40
+temperature,23
+button,0
+
+
+Current time,632610
+NO2,151
+CO,32
+airQuality,514
+humidity,40
+temperature,23
+button,0
+
+
+Current time,642611
+NO2,152
+CO,32
+airQuality,541
+humidity,40
+temperature,23
+button,0
+
+
+Current time,652612
+NO2,152
+CO,32
+airQuality,555
+humidity,40
+temperature,23
+button,0
+
+
+Current time,662614
+NO2,152
+CO,32
+airQuality,576
+humidity,40
+temperature,23
+button,0
+
+
+Current time,672615
+NO2,152
+CO,32
+airQuality,563
+humidity,40
+temperature,23
+button,0
+
+
+Current time,682616
+NO2,151
+CO,32
+airQuality,567
+humidity,40
+temperature,23
+button,0
+
+
+Current time,692617
+NO2,146
+CO,23
+airQuality,396
+humidity,40
+temperature,23
+button,0
+
+
+Current time,702618
+NO2,147
+CO,18
+airQuality,395
+humidity,40
+temperature,23
+button,0
+
+
+Current time,712619
+NO2,146
+CO,17
+airQuality,414
+humidity,40
+temperature,23
+button,0
+
+
+Current time,722620
+NO2,147
+CO,19
+airQuality,448
+humidity,40
+temperature,23
+button,0
+
+
+Current time,732621
+NO2,147
+CO,21
+airQuality,414
+humidity,40
+temperature,23
+button,0
+
+
+Current time,742622
+NO2,147
+CO,22
+airQuality,386
+humidity,40
+temperature,23
+button,0
+
+
+Current time,752623
+NO2,147
+CO,24
+airQuality,418
+humidity,40
+temperature,23
+button,0
+
+
+Current time,762624
+NO2,147
+CO,25
+airQuality,436
+humidity,40
+temperature,23
+button,0
+
+
+Current time,772625
+NO2,147
+CO,27
+airQuality,420
+humidity,40
+temperature,23
+button,0
+
+
+Current time,782626
+NO2,152
+CO,27
+airQuality,511
+humidity,40
+temperature,23
+button,0
+
+
+Current time,792627
+NO2,152
+CO,27
+airQuality,507
+humidity,40
+temperature,23
+button,0
+
+
+Current time,802628
+NO2,152
+CO,27
+airQuality,567
+humidity,40
+temperature,23
+button,0
+
+
+Current time,812630
+NO2,152
+CO,27
+airQuality,569
+humidity,40
+temperature,23
+button,0
+
+
+Current time,822631
+NO2,152
+CO,27
+airQuality,577
+humidity,40
+temperature,23
+button,0
+
+
+Current time,832632
+NO2,152
+CO,27
+airQuality,530
+humidity,40
+temperature,23
+button,0
+
+
+Current time,842633
+NO2,147
+CO,21
+airQuality,404
+humidity,40
+temperature,23
+button,0
+
+
+Current time,852634
+NO2,147
+CO,15
+airQuality,380
+humidity,40
+temperature,23
+button,0
+
+
+Current time,862635
+NO2,147
+CO,14
+airQuality,385
+humidity,40
+temperature,23
+button,0
+
+
+Current time,872636
+NO2,147
+CO,15
+airQuality,390
+humidity,40
+temperature,23
+button,0
+
+
+Current time,882637
+NO2,147
+CO,17
+airQuality,387
+humidity,40
+temperature,23
+button,0
+
+
+Current time,892638
+NO2,147
+CO,18
+airQuality,401
+humidity,40
+temperature,23
+button,0
+
+
+Current time,902639
+NO2,147
+CO,20
+airQuality,421
+humidity,40
+temperature,23
+button,0
+
+
+Current time,912640
+NO2,147
+CO,21
+airQuality,398
+humidity,40
+temperature,23
+button,0
+
+
+Current time,922641
+NO2,147
+CO,22
+airQuality,394
+humidity,40
+temperature,23
+button,0
+
+
+Current time,932642
+NO2,152
+CO,23
+airQuality,496
+humidity,40
+temperature,23
+button,0
+
+
+Current time,942643
+NO2,152
+CO,23
+airQuality,501
+humidity,40
+temperature,23
+button,0
+
+
+Current time,952644
+NO2,152
+CO,23
+airQuality,506
+humidity,40
+temperature,23
+button,0
+
+
+Current time,962646
+NO2,152
+CO,23
+airQuality,560
+humidity,40
+temperature,23
+button,0
+
+
+Current time,972647
+NO2,153
+CO,23
+airQuality,537
+humidity,40
+temperature,23
+button,0
+
+
+Current time,982648
+NO2,152
+CO,23
+airQuality,538
+humidity,40
+temperature,23
+button,0
+
+
+Current time,992649
+NO2,147
+CO,21
+airQuality,464
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1002650
+NO2,148
+CO,14
+airQuality,448
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1012651
+NO2,148
+CO,12
+airQuality,386
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1022652
+NO2,147
+CO,13
+airQuality,391
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1032653
+NO2,148
+CO,14
+airQuality,385
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1042654
+NO2,148
+CO,15
+airQuality,415
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1052655
+NO2,148
+CO,16
+airQuality,402
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1062656
+NO2,148
+CO,18
+airQuality,433
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1072657
+NO2,148
+CO,19
+airQuality,410
+humidity,41
+temperature,23
+button,0
+
+
+Current time,1082658
+NO2,153
+CO,20
+airQuality,474
+humidity,41
+temperature,23
+button,0
+
+
+Current time,1092659
+NO2,153
+CO,20
+airQuality,553
+humidity,41
+temperature,23
+button,0
+
+
+Current time,1102660
+NO2,153
+CO,20
+airQuality,557
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1112662
+NO2,153
+CO,20
+airQuality,560
+humidity,41
+temperature,23
+button,0
+
+
+Current time,1122663
+NO2,153
+CO,20
+airQuality,563
+humidity,41
+temperature,23
+button,0
+
+
+Current time,1132664
+NO2,153
+CO,20
+airQuality,564
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1142665
+NO2,153
+CO,20
+airQuality,562
+humidity,41
+temperature,23
+button,0
+
+
+Current time,1152666
+NO2,148
+CO,14
+airQuality,437
+humidity,41
+temperature,23
+button,0
+
+
+Current time,1162667
+NO2,148
+CO,11
+airQuality,434
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1172668
+NO2,148
+CO,10
+airQuality,398
+humidity,41
+temperature,23
+button,0
+
+
+Current time,1182669
+NO2,148
+CO,11
+airQuality,398
+humidity,41
+temperature,23
+button,0
+
+
+Current time,1192670
+NO2,148
+CO,13
+airQuality,387
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1202671
+NO2,148
+CO,14
+airQuality,402
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1212672
+NO2,148
+CO,15
+airQuality,426
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1222673
+NO2,148
+CO,16
+airQuality,397
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1232674
+NO2,148
+CO,17
+airQuality,375
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1242675
+NO2,153
+CO,18
+airQuality,501
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1252676
+NO2,153
+CO,18
+airQuality,576
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1262678
+NO2,153
+CO,18
+airQuality,553
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1272679
+NO2,154
+CO,18
+airQuality,546
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1282680
+NO2,154
+CO,18
+airQuality,500
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1292681
+NO2,153
+CO,18
+airQuality,499
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1302682
+NO2,148
+CO,16
+airQuality,413
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1312683
+NO2,148
+CO,10
+airQuality,438
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1322684
+NO2,148
+CO,9
+airQuality,415
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1332685
+NO2,148
+CO,9
+airQuality,377
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1342686
+NO2,148
+CO,10
+airQuality,376
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1352687
+NO2,148
+CO,12
+airQuality,387
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1362688
+NO2,148
+CO,13
+airQuality,438
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1372689
+NO2,148
+CO,14
+airQuality,449
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1382690
+NO2,148
+CO,15
+airQuality,453
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1392691
+NO2,154
+CO,16
+airQuality,529
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1402692
+NO2,154
+CO,16
+airQuality,543
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1412694
+NO2,154
+CO,16
+airQuality,517
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1422695
+NO2,154
+CO,16
+airQuality,516
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1432696
+NO2,154
+CO,16
+airQuality,481
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1442697
+NO2,154
+CO,16
+airQuality,535
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1452698
+NO2,148
+CO,15
+airQuality,398
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1462699
+NO2,149
+CO,9
+airQuality,403
+humidity,40
+temperature,23
+button,0
+
+
+Current time,1472700
+NO2,149
+CO,7
+airQuality,351
+humidity,40
+temperature,23
+button,0
+
+
