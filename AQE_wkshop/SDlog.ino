@@ -6,7 +6,7 @@ unsigned long timer = 60000;
 unsigned long lastResponseTime = 0;
 
 //----- setup
-void nanodeSetup(){
+boolean nanodeSetup(){
   Serial.println("\nSD Card logger");
   timer = 65; //initial wait time in seconds
   
@@ -16,9 +16,29 @@ void nanodeSetup(){
   if (!SD.begin(chipSelect)) {
     Serial.println("Card failed, or not present");
     // don't do anything more:
-    return;
-  }
+    return false;
+  } 
+  File dataFile = SD.open("datalog.txt", FILE_WRITE);
+
+  // if the file is available, write to it:
+  if (!dataFile) {
+    Serial.println("Cannot open file 'datalog.txt'");
+    // don't do anything more:
+    return false;
+  } 
+  dataFile.println();
+  dataFile.print("Current time,");      
+  dataFile.print("NO2,");
+  dataFile.print("CO,");
+  dataFile.print("airQuality,");
+  dataFile.print("humidity,");
+  dataFile.print("temperature,");
+  dataFile.println("button");
+  dataFile.println();
+  dataFile.close();
+  
   Serial.println("card initialized.");
+  return true;
 }
 
 //----- check time, sendData if we've hit timer
@@ -38,7 +58,7 @@ boolean transmitTime(){
 void nanodeSendData(){
 
   Serial.println("-----BEGIN ATTEMPT SEND DATA-----");
-  Serial.print("Current time     =");
+  Serial.print("Current time     = ");
   Serial.println(currTime);
   Serial.print("sending No2      = ");
   Serial.println(currNo2);
@@ -60,30 +80,20 @@ void nanodeSendData(){
 
   // if the file is available, write to it:
   if (dataFile) {
-      dataFile.print("Current time,");
-      dataFile.println(currTime);
-      
-      dataFile.print("NO2,");
-      dataFile.println((word)currNo2);
-
-      dataFile.print("CO,");
-      dataFile.println((word)currCo);
-    
-      dataFile.print("airQuality,");
-      dataFile.println((word)currQuality);
-    
-      dataFile.print("humidity,");
-      dataFile.println((word)currHumidity);
-    
-      dataFile.print("temperature,");
-      dataFile.println((word)currTemp);
-    
-      dataFile.print("button,");
+      dataFile.print(currTime);
+      dataFile.print(",");
+      dataFile.print((word)currNo2);
+      dataFile.print(",");
+      dataFile.print((word)currCo);
+      dataFile.print(",");
+      dataFile.print((word)currQuality);
+      dataFile.print(",");
+      dataFile.print((word)currHumidity);
+      dataFile.print(",");
+      dataFile.print((word)currTemp);
+      dataFile.print(",");
       dataFile.println((word)currButton);
-      dataFile.println();
-      dataFile.println();
       dataFile.close();
-        // print to the serial port too:
   } else {
     Serial.println("error opening datalog.txt");
   } 

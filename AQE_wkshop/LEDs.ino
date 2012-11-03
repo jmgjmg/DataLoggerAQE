@@ -1,6 +1,6 @@
 
 //LEDs
-const int statusLed = 4; //JMG originally 9 but now used by SS SPI for SD card
+const int statusLed = 8; //JMG originally 9 but now used by SS SPI for SD card
 //const int buttonLed = 5;
 
 int ledTime = 0;

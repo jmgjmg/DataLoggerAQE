@@ -73,7 +73,10 @@ void setup () {
   Serial.begin(9600); 
   
   ledSetup();
-  nanodeSetup(); //nanode SD setup stuff 
+  if (!nanodeSetup()){
+    // SD not initialised; stop here
+    while (true);
+  }
 }
 
 void loop () {
